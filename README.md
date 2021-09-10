@@ -27,8 +27,6 @@ or
 ```conda install pandas```
 
 
-
-
 Now, you can run the script by running the following command in your terminal:
 
 ```python3 vro_equity_portfolio_calculator.py <xlsx_from_vro>```
