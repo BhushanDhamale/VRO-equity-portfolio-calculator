@@ -5,7 +5,9 @@ This Python script will enable you to get a simple summary of your equity portfo
 
 Prerequisites for running the script:
 • Python 3
+
 • Pandas
+
 • Portfolio XLSX file
 
 If you have your stock portfolio uploaded on the VRO portfolio management tool, you can download it in XLSX format as follows:
