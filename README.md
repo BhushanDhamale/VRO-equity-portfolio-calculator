@@ -19,11 +19,12 @@ If you have your stock portfolio uploaded on the VRO portfolio management tool, 
 Your XLSX file should be downloaded now. 
 
 You need the pandas library to run the script. You can install it by running the following command in your terminal:
-pip install pandas
+```pip install pandas```
 or
-conda install pandas
+```conda install pandas```
 
 Now, you can run the script by running the following command in your terminal:
-python3 vro_equity_portfolio_calculator.py <xlsx_from_vro>
+
+```python3 vro_equity_portfolio_calculator.py <xlsx_from_vro>```
 
 The script will automatically open the output file in LibreOffice Calc if you have it installed.
