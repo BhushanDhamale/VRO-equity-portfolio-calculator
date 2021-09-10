@@ -4,6 +4,7 @@ This Python script will enable you to get a simple summary of your equity portfo
 
 
 Prerequisites for running the script:
+
 • Python 3
 
 • Pandas
